@@ -20,11 +20,9 @@
 //     console.log("Game is over");
 //   }
 
-//   const targetNum = 3;
-//   let numberOfGuesses = 2;
-//   let gameOver = false;
-  
-  
+  const targetNum = 3;
+  let numberOfGuesses = 2;
+  let gameOver = false;
   
   
   while(numberOfGuesses > 0 && !gameOver) {
